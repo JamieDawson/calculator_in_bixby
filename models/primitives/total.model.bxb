@@ -1,0 +1,3 @@
+integer (totalConcept) {
+  description (the total amount of firstNumber and secondNumber)
+}

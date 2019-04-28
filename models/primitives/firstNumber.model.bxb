@@ -1,0 +1,3 @@
+integer (firstNumberConcept) {
+  description (The first number found in the equation)
+}
