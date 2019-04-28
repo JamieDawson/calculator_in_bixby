@@ -1,4 +1,4 @@
-I'm creating a beginner guide to Bixby by creating a basic calculator with it. Blog post giving step-by-step instructions coming soon!
+I'm creating a beginner guide to Bixby by creating a basic calculator with it. A blog post my [Medium account](https://medium.com/@jamierobertdawson) giving step-by-step instructions coming soon!
 
 **Current features:</br>**
 Add two numbers.</br>
