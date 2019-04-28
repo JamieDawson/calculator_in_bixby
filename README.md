@@ -2,8 +2,7 @@ I'm creating a beginner guide to Bixby by creating a basic calculator. This proj
 
 Current features:</br>
 Add two numbers.</br>
-
-Upcoming features:</br>
 subtracting <br>
 multiplication </br>
 division </br>
+
