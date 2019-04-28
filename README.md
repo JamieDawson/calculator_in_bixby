@@ -12,7 +12,7 @@ one plus eight
 20 minus 5  </br>
 15 subtracted by 10</br>
 5 times 10</br>
-four times three
+four times three</br>
 15 divided by 10</br>
 
 **example of output:</br>**
