@@ -8,9 +8,11 @@ division </br>
 
 **Example commands that will work:**</br>
 1 plus 2</br>
+one plus eight
 20 minus 5  </br>
 15 subtracted by 10</br>
 5 times 10</br>
+four times three
 15 divided by 10</br>
 
 **example of output:</br>**
