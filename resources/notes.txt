@@ -8,6 +8,7 @@ intent {
 
 
 When I did the training "1 plus 2", any other variation worked well. Examples: 1 minus 8, 4 times 10, etc.
-I need to add the training "add one and ten". Otherwise the program gets confused because it's getting too many arguements.
+(FIXED) I need to add the training "add one and ten". Otherwise the program gets confused because it's getting too many arguements.
 
+I added extra training so that inputs like "15 divided by 10" won't cause the program to get confused. 
 
