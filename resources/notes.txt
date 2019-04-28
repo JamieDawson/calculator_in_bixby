@@ -1,0 +1,7 @@
+First test for adding two numbers. 
+
+intent {
+  goal: playground.example.grabTotal
+  value: playground.example.firstNumberConcept(1)
+  value: playground.example.secondNumberConcept(2)
+}

@@ -1,7 +1,7 @@
 endpoints {
    action-endpoints {
      action-endpoint (grabTotal) { //change
-       accepted-inputs (firstNumber, secondNumber)
+       accepted-inputs (firstNumber, secondNumber, operator)
        local-endpoint ("grabTotal.js")
      }
    }

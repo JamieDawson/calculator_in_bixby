@@ -9,6 +9,10 @@ action (grabTotal) {
       type (secondNumberConcept)
       min (Required) max (One)
     }
+    input (operator){
+      type (operatorConcept)
+       
+    }
   }
   
   output (totalConcept)
